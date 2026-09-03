@@ -1,0 +1,7 @@
+it is simply a table saved as .csv, where
+values are separated by commas.
+
+Roll_No,Name,Age,Branch,Semester,Marks
+101,Rahul,20,CSE,4,78
+102,Aman,21,AIDS,4,85
+103,Priya,20,CSE,,4,91
