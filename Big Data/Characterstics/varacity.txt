@@ -1,0 +1,8 @@
+Veracity refers to the accuracy, reliability, and quality of data.
+
+It checks whether the data is correct, trustworthy, and free from
+ errors or inconsistencies.
+
+Example:
+If customer information contains incorrect names, duplicate records, 
+or fake reviews, the data has low veracity.

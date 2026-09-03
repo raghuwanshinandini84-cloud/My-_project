@@ -1,0 +1,8 @@
+Variety refers to the different types and formats of data collected from 
+various sources.
+
+Examples include:
+
+Structured data – Tables, databases
+Semi-structured data – JSON, XML
+Unstructured data – Text, images, videos, audio

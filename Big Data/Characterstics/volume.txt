@@ -1,0 +1,6 @@
+Volume refers to the huge amount of data generated, collected, and stored 
+by organizations and devices.
+
+Example:
+Social media platforms generate billions of photos, videos, messages, and 
+posts every day. This massive quantity of data represents Volume in Big Data.

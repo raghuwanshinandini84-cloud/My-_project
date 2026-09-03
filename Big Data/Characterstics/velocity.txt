@@ -1,0 +1,6 @@
+Velocity refers to the speed at which data is generated, collected,
+ transferred, and processed.
+
+Example:
+Social media platforms receive millions of likes, comments, and
+ messages every second. This data needs to be processed very quickly.

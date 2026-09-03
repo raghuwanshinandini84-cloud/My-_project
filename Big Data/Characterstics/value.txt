@@ -1,0 +1,7 @@
+Value refers to the useful information or benefits obtained from data 
+after analyzing it.
+
+Example:
+A shopping website analyzes customers' purchase data and discovers 
+which products are most popular. This information helps the company
+ improve sales and recommendations.
